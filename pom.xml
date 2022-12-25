@@ -4,7 +4,7 @@
 
   <groupId>io.github.shim-legacy</groupId>
   <artifactId>shim-legacy</artifactId>
-  <version>1.0</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>shim-legacy</name>
